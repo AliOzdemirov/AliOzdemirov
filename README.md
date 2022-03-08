@@ -15,7 +15,7 @@
         В прошлом занимался профессионально вольной борьбой, являюсь кандидатом в мастера спорта. 
   </li>
   <li>
-    <img src="https://cdn1.iconfinder.com/data/icons/videogames-4/32/Videogames_controller_joystick_games_video_console-256.png" style="width:16px"/>
+    <img src="https://thumbs.dreamstime.com/z/%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F-%D1%82%D0%B2%D1%91%D1%80%D0%B4%D0%B0%D1%8F-%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B0-%D0%B8-%D0%BD%D0%B0%D1%81%D0%BB%D0%B0%D0%B6%D0%B4%D0%B0%D1%82%D1%8C%D1%81%D1%8F-%D1%81%D1%87%D0%B0%D1%81%D1%82%D0%BB%D0%B8%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BF%D1%83%D0%B7%D1%8B%D1%80%D1%8F-165886850.jpg" style="width:16px"/>
         Получаю удовольствие когда помогаю людям решать их проблемы
   </li>
 </ul>
