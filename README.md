@@ -10,7 +10,7 @@
 <h3>Мой стек технологий</h3>
 <div>
 <img src="https://github.com/AliOzdemirov/AliOzdemirov/blob/main/assets/react.png" title="React" height="50px" width="50px"/>
-<img src="https://github.com/AliOzdemirov/AliOzdemirov/blob/main/assets/redux.png" title="Redux" width="50px"/>
+<img src="https://github.com/AliOzdemirov/AliOzdemirov/blob/main/assets/redux..png" title="Redux" height="50px" width="50px"/>
 <img src="https://github.com/AliOzdemirov/AliOzdemirov/blob/main/assets/javascript-icon-png-24.jpg" height="50px" title="JavaScript" width="50px"/>
 <img src="https://github.com/AliOzdemirov/AliOzdemirov/blob/main/assets/html.png" title="HTML" height="50px" width="50px"/>
 <img src="https://github.com/AliOzdemirov/AliOzdemirov/blob/main/assets/css.png" title="CSS" height="50px" width="50px"/>
