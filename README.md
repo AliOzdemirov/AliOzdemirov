@@ -17,6 +17,6 @@
 <img src="https://github.com/AliOzdemirov/AliOzdemirov/blob/main/assets/mui.png" style="margin-left:3px" title="Material ui" height="50px" width="50px"/>
 <img src="https://github.com/AliOzdemirov/AliOzdemirov/blob/main/assets/node-js-icon-8.jpg" style="margin-left:3px" title="NODE JS" height="50px" width="50px"/>
 <img src="https://github.com/AliOzdemirov/AliOzdemirov/blob/main/assets/sequelize.png" style="margin-left:3px" title="Sequelize" height="50px" width="50px"/>
-<img src="https://github.com/AliOzdemirov/AliOzdemirov/blob/main/assets/express.png" style="margin-left:3px" title="Express" height="50px" width="50px"/>
 <img src="https://github.com/AliOzdemirov/AliOzdemirov/blob/main/assets/git.png" style="margin-left:3px" title="GitHub" height="50px" width="50px"/>
+<img src="https://github.com/AliOzdemirov/AliOzdemirov/blob/main/assets/express.png" style="margin-left:3px" title="Express" height="50px" width="50px"/>
 </div>
