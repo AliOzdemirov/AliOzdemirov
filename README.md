@@ -25,7 +25,7 @@
 <h3>Напиши мне</h3>
 <a href="https://t.me/AliOzdemirov"><img src="https://eam.su/wp-content/uploads/tg.png" alt="telegram" height=50/></a>
 
-<h3>Мой стек технологий</h3>
+<h3>Мой стэк технологий</h3>
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
