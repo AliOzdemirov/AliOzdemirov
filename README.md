@@ -21,7 +21,7 @@
   </li>
 </ul>
 <hr>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AliOzdemirov=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h3>Напиши мне</h3>
 <a href="https://t.me/AliOzdemirov"><img src="https://eam.su/wp-content/uploads/tg.png" alt="telegram" height=50/></a>
 
