@@ -38,4 +38,4 @@
 ![Material ui](https://img.shields.io/badge/-MATERIALUI-090909?style=for-the-badge&logo=mui)
 <h3>codewars</h3>
 
-![codewars](https://www.codewars.com/users/ITShnikAli/badges/large)
+![codewars](https://www.codewars.com/users/ITshnikAli/badges/large)
