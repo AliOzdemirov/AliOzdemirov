@@ -36,3 +36,4 @@
 ![GITHUB](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
 ![Material ui](https://img.shields.io/badge/-MATERIALUI-090909?style=for-the-badge&logo=mui)
+![codewars](https://www.codewars.com/users/ITShnikAli/badges/large)
